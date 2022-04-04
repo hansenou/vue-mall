@@ -41,3 +41,5 @@ new Vue({
     Vue.prototype.$API =  API
     }
 })
+
+console.log('Init')
